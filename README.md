@@ -10,6 +10,8 @@ The goal of this current project is to develop a fully functional program capabl
 and Optical Flow to detect and Avoid Objects. The success of this project will offer a cheaper method to help create autonomous flight as other 
 methods that have been proven more effective are shown to be astronomically more expensive.
 
+
+### A demo of the working version we have of the program.
 [![A video that shows the demo OPTFLOW from Cal Poly Pomona at work](http://img.youtube.com/vi/sJlR9mkBTP4/0.jpg)](http://www.youtube.com/watch?v=sJlR9mkBTP4 "Demo of CalPoly OptFlow Program ")
 
 
@@ -20,4 +22,5 @@ This project is using the [PEP8](https://www.python.org/dev/peps/pep-0008/) styl
 - [Python 3](https://www.python.org)
 - [OpenCV](https://opencv.org)
 - [DroneKit](https://dronekit.io) 
+
 ## Credits
