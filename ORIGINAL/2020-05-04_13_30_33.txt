@@ -1,0 +1,227 @@
+1 Going to destination 0.48003578186035156
+2 Going to destination 0.7930409908294678
+3 Going to destination 1.074066162109375
+4 Going to destination 1.3360869884490967
+5 Going to destination 1.6011056900024414
+6 Going to destination 1.8951268196105957
+7 Going to destination 2.1541473865509033
+8 Going to destination 2.4021670818328857
+9 Going to destination 2.665184497833252
+10 Going to destination 2.927203893661499
+11 Going to destination 3.1742265224456787
+12 Going to destination 3.4172446727752686
+13 Going to destination 3.66426157951355
+14 Going to destination 3.9272825717926025
+15 Going to destination 4.190301179885864
+16 Going to destination 4.438319206237793
+17 Going to destination 4.686342239379883
+18 Going to destination 4.939361333847046
+19 Going to destination 5.188379526138306
+20 Going to destination 5.444401264190674
+21 Going to destination 5.7054197788238525
+22 Going to destination 5.950670957565308
+23 Going to destination 6.204690217971802
+24 Going to destination 6.4477081298828125
+25 Going to destination 6.701727390289307
+26 Going to destination 6.954746246337891
+27 Going to destination 7.199764013290405
+28 Going to destination 7.457783222198486
+29 Going to destination 7.712802410125732
+30 Going to destination 7.968821287155151
+31 Going to destination 8.223533868789673
+32 Going to destination 8.510560035705566
+33 Going to destination 8.821578979492188
+34 Going to destination 9.12760066986084
+35 Going to destination 9.420624017715454
+36 Going to destination 9.700643539428711
+37 Going to destination 9.989665746688843
+38 Going to destination 10.297687768936157
+39 Going to destination 10.57770848274231
+40 Going to destination 10.83272933959961
+41 Going to destination 11.100748062133789
+42 Going to destination 11.363769292831421
+43 Going to destination 11.660788774490356
+44 Going to destination 11.96381425857544
+45 Going to destination 12.227831840515137
+46 Going to destination 12.486851453781128
+47 Going to destination 12.741871118545532
+48 Going to destination 12.989892721176147
+49 Going to destination 13.250909805297852
+50 Going to destination 13.502941846847534
+51 Going to destination 13.756961584091187
+52 Going to destination 14.00898027420044
+53 Going to destination 14.262999057769775
+54 Going to destination 14.523022651672363
+55 Going to destination 14.781038999557495
+56 Going to destination 15.027058839797974
+57 Going to destination 15.291076898574829
+58 Going to destination 15.535097599029541
+59 Going to destination 15.786113739013672
+60 Going to destination 16.034147262573242
+61 Going to destination 16.28316569328308
+62 Going to destination 16.5351881980896
+63 Going to destination 16.790212154388428
+64 Going to destination 17.040229082107544
+65 Going to destination 17.29524850845337
+66 Going to destination 17.55427050590515
+67 Going to destination 17.80928921699524
+68 Going to destination 18.06031036376953
+69 Going to destination 18.308332443237305
+70 Going to destination 18.561354637145996
+71 Going to destination 18.810375452041626
+72 Going to destination 19.071393489837646
+73 Going to destination 19.322412252426147
+74 Going to destination 19.578806161880493
+75 Going to destination 19.831825017929077
+76 Going to destination 20.082844495773315
+77 Going to destination 20.335864782333374
+78 Going to destination 20.644887447357178
+79 Left [392, 456] Performing Maneuver 20.91290807723999
+80 Left [392, 456] Performing Maneuver 20.93990969657898
+81 Left [392, 456] Performing Maneuver 21.01091432571411
+82 Left [392, 456] Performing Maneuver 21.078914880752563
+83 Left [392, 456] Performing Maneuver 21.14592671394348
+84 Left [392, 456] Performing Maneuver 21.212510347366333
+85 Left [392, 456] Performing Maneuver 21.280881881713867
+86 Left [392, 456] Performing Maneuver 21.34987497329712
+87 Left [392, 456] Performing Maneuver 21.41690158843994
+88 Left [392, 456] Performing Maneuver 21.48290514945984
+89 Left [392, 456] Performing Maneuver 21.551931858062744
+90 Left [392, 456] Performing Maneuver 21.61993646621704
+91 Left [392, 456] Performing Maneuver 21.68594455718994
+92 Left [392, 456] Performing Maneuver 21.752981185913086
+93 Left [392, 456] Performing Maneuver 21.82211470603943
+94 Left [392, 456] Performing Maneuver 21.88912057876587
+95 Left [392, 456] Performing Maneuver 21.954126358032227
+96 Left [392, 456] Performing Maneuver 22.020130395889282
+97 Left [392, 456] Performing Maneuver 22.09113574028015
+98 Left [392, 456] Performing Maneuver 22.161235094070435
+99 Left [392, 456] Performing Maneuver 22.228257179260254
+100 Left [392, 456] Performing Maneuver 22.295934915542603
+101 Left [392, 456] Performing Maneuver 22.365944862365723
+102 Left [392, 456] Performing Maneuver 22.43496561050415
+103 Left [392, 456] Performing Maneuver 22.501985549926758
+104 Left [392, 456] Performing Maneuver 22.57002544403076
+105 Left [392, 456] Performing Maneuver 22.63601517677307
+106 Left [392, 456] Performing Maneuver 22.704020500183105
+107 Left [392, 456] Performing Maneuver 22.772023916244507
+108 Left [392, 456] Performing Maneuver 22.838990449905396
+109 Left [392, 456] Performing Maneuver 22.90502166748047
+110 Left [392, 456] Performing Maneuver 22.974021434783936
+111 Left [392, 456] Performing Maneuver 23.041025638580322
+112 Left [392, 456] Performing Maneuver 23.108028650283813
+113 Left [392, 456] Performing Maneuver 23.175061464309692
+114 Left [392, 456] Performing Maneuver 23.24112629890442
+115 Left [392, 456] Performing Maneuver 23.307130098342896
+116 Left [392, 456] Performing Maneuver 23.376134872436523
+117 Left [392, 456] Performing Maneuver 23.445158004760742
+118 Left [392, 456] Performing Maneuver 23.51116633415222
+119 Going to destination 23.821839094161987
+120 Going to destination 24.080350875854492
+121 Going to destination 24.333385944366455
+122 Going to destination 24.59938955307007
+123 Left [424, 344] Performing Maneuver 24.845410108566284
+124 Left [424, 344] Performing Maneuver 24.867411851882935
+125 Left [424, 344] Performing Maneuver 24.93362593650818
+126 Left [424, 344] Performing Maneuver 24.999632596969604
+127 Left [424, 344] Performing Maneuver 25.069637775421143
+128 Left [424, 344] Performing Maneuver 25.138472318649292
+129 Left [424, 344] Performing Maneuver 25.20475673675537
+130 Left [424, 344] Performing Maneuver 25.27077293395996
+131 Left [424, 344] Performing Maneuver 25.33981442451477
+132 Left [424, 344] Performing Maneuver 25.408050537109375
+133 Left [424, 344] Performing Maneuver 25.47435760498047
+134 Left [424, 344] Performing Maneuver 25.53941011428833
+135 Left [424, 344] Performing Maneuver 25.607417821884155
+136 Left [424, 344] Performing Maneuver 25.67443537712097
+137 Left [424, 344] Performing Maneuver 25.741464853286743
+138 Left [424, 344] Performing Maneuver 25.80646824836731
+139 Left [424, 344] Performing Maneuver 25.874475240707397
+140 Left [424, 344] Performing Maneuver 25.94290280342102
+141 Left [424, 344] Performing Maneuver 26.00892162322998
+142 Left [424, 344] Performing Maneuver 26.07691240310669
+143 Left [424, 344] Performing Maneuver 26.147947549819946
+144 Left [424, 344] Performing Maneuver 26.214993238449097
+145 Left [424, 344] Performing Maneuver 26.280957221984863
+146 Left [424, 344] Performing Maneuver 26.34996771812439
+147 Left [424, 344] Performing Maneuver 26.422974824905396
+148 Left [424, 344] Performing Maneuver 26.48997950553894
+149 Left [424, 344] Performing Maneuver 26.555984258651733
+150 Left [424, 344] Performing Maneuver 26.62403893470764
+151 Left [424, 344] Performing Maneuver 26.693042039871216
+152 Left [424, 344] Performing Maneuver 26.760150909423828
+153 Left [424, 344] Performing Maneuver 26.82617998123169
+154 Left [424, 344] Performing Maneuver 26.898184061050415
+155 Left [424, 344] Performing Maneuver 26.96818971633911
+156 Left [424, 344] Performing Maneuver 27.036210775375366
+157 Left [424, 344] Performing Maneuver 27.104214906692505
+158 Left [424, 344] Performing Maneuver 27.171217679977417
+159 Left [424, 344] Performing Maneuver 27.238227605819702
+160 Left [424, 344] Performing Maneuver 27.305227518081665
+161 Left [424, 344] Performing Maneuver 27.37522792816162
+162 Left [424, 344] Performing Maneuver 27.442234992980957
+163 Going to destination 27.740257024765015
+164 Going to destination 28.004276514053345
+165 Right [296, 104] Performing Maneuver 28.253297090530396
+166 Right [296, 104] Performing Maneuver 28.274298429489136
+167 Right [296, 104] Performing Maneuver 28.342293977737427
+168 Right [296, 104] Performing Maneuver 28.409303903579712
+169 Right [296, 104] Performing Maneuver 28.475504636764526
+170 Right [296, 104] Performing Maneuver 28.54283118247986
+171 Right [296, 104] Performing Maneuver 28.60551404953003
+172 Right [296, 104] Performing Maneuver 28.672032117843628
+173 Right [296, 104] Performing Maneuver 28.740033388137817
+174 Right [296, 104] Performing Maneuver 28.81212043762207
+175 Right [296, 104] Performing Maneuver 28.88115668296814
+176 Right [296, 104] Performing Maneuver 28.950016498565674
+177 Right [296, 104] Performing Maneuver 29.019997596740723
+178 Right [296, 104] Performing Maneuver 29.087000846862793
+179 Right [296, 104] Performing Maneuver 29.154613733291626
+180 Right [296, 104] Performing Maneuver 29.221863746643066
+181 Right [296, 104] Performing Maneuver 29.2912015914917
+182 Right [296, 104] Performing Maneuver 29.359267950057983
+183 Right [296, 104] Performing Maneuver 29.424309730529785
+184 Right [296, 104] Performing Maneuver 29.49534273147583
+185 Right [296, 104] Performing Maneuver 29.5633487701416
+186 Right [296, 104] Performing Maneuver 29.632540464401245
+187 Right [296, 104] Performing Maneuver 29.698543071746826
+188 Right [296, 104] Performing Maneuver 29.767584562301636
+189 Right [296, 104] Performing Maneuver 29.835591316223145
+190 Right [296, 104] Performing Maneuver 29.902600288391113
+191 Right [296, 104] Performing Maneuver 29.96902298927307
+192 Right [296, 104] Performing Maneuver 30.040009260177612
+193 Right [296, 104] Performing Maneuver 30.10598349571228
+194 Right [296, 104] Performing Maneuver 30.17257523536682
+195 Right [296, 104] Performing Maneuver 30.239606618881226
+196 Right [296, 104] Performing Maneuver 30.308635711669922
+197 Right [296, 104] Performing Maneuver 30.37765407562256
+198 Right [296, 104] Performing Maneuver 30.44494867324829
+199 Right [296, 104] Performing Maneuver 30.510692596435547
+200 Right [296, 104] Performing Maneuver 30.580726623535156
+201 Right [296, 104] Performing Maneuver 30.650736570358276
+202 Right [296, 104] Performing Maneuver 30.71774435043335
+203 Right [296, 104] Performing Maneuver 30.784756422042847
+204 Right [296, 104] Performing Maneuver 30.8547625541687
+205 Going to destination 31.156784057617188
+206 Going to destination 31.405803442001343
+207 Going to destination 31.668825149536133
+208 Going to destination 31.919071435928345
+209 Going to destination 32.17509078979492
+210 Going to destination 32.43210959434509
+211 Going to destination 32.693129539489746
+212 Right [200, 72] Performing Maneuver 32.96714997291565
+213 Right [200, 72] Performing Maneuver 32.98715114593506
+214 Right [200, 72] Performing Maneuver 33.05515813827515
+215 Right [200, 72] Performing Maneuver 33.12316107749939
+216 Right [200, 72] Performing Maneuver 33.19280672073364
+217 Right [200, 72] Performing Maneuver 33.263813734054565
+218 Right [200, 72] Performing Maneuver 33.333818674087524
+219 Right [200, 72] Performing Maneuver 33.406824827194214
+220 Right [200, 72] Performing Maneuver 33.472856521606445
+221 Right [200, 72] Performing Maneuver 33.53786492347717
+222 Right [200, 72] Performing Maneuver 33.60397434234619
+223 Right [200, 72] Performing Maneuver 33.670978307724
+224 Right [200, 72] Performing Maneuver 33.73800730705261
+225 Right [200, 72] Performing Maneuver 33.805994749069214
+226 Right [200, 72] Performing Maneuver 33.87299704551697
+227 Right [200, 72] Performing Maneuver 33.93968892097473
