@@ -13,7 +13,7 @@ methods that have been proven more effective are shown to be astronomically more
 ## Code Style
 
 ## Tech/Frameworks used
-	- OpenCV
-	- DroneKit
-	- Python
+	- Python 3(https://www.python.org)
+	- OpenCV(https://opencv.org)
+	- DroneKit(https://dronekit.io)
 ## Credits
