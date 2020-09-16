@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/44239879/93377975-a33bec80-f810-11ea-9d62-8089ea45eace.png)
 
 ## Project Overview
-The project based at California State Polytechnic University Pomona headed by Dr.Subodh Bhandari a Professor in Aerospace Engineering.
+The project based at California State Polytechnic University Pomona headed by Dr.Subodh Bhandari.
 This particular project is using Optical Flow to create an algorithm to assist in Collision Avoidance. It is an interdisciplinary team of current 
 Cal Poly Students that are currently working on the project.
 
