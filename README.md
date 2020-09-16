@@ -10,7 +10,10 @@ The goal of this current project is to develop a fully functional program capabl
 and Optical Flow to detect and Avoid Objects. The success of this project will offer a cheaper method to help create autonomous flight as other 
 methods that have been proven more effective are shown to be astronomically more expensive.
 
+
+
 ## Code Style
+This project is using the [PEP8](https://www.python.org/dev/peps/pep-0008/) style for it's coding style.
 
 ## Tech/Frameworks used
 - [Python 3](https://www.python.org)
