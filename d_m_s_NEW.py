@@ -10,13 +10,14 @@ import sys
 dir_original = 'ORIGINAL'
 dir_opt_flow = 'OPT_FLOW'
 dir_source_video = 'TEST_VIDEOS'
+dir_sim_info = 'SIM_INFO'
 global out_original, out_opt_flow, txt_file, time_start ,fd # HAD TO MAKE THEM GLOBAL FOR USAGE INSIDE AND OUTSIDE FUNCTIONS
-out_original, out_opt_flow, txt_file, time_start = fd.recording_setup_Windows(dir_original,dir_opt_flow)
+out_original, out_opt_flow, txt_file, time_start = fd.recording_setup_Windows(dir_original,dir_opt_flow,dir_sim_info)
 #******************************************************************************
 
 #******* creating an inital image for the algorithm   *************************
 global cam # HAD TO MAKE IT GLOBAL FOR USAGE INSIDE AND OUTSIDE FUNCTIONS
-cam = fd.cv.VideoCapture(fd.os.path.join(dir_source_video, 'DJI_0046.MOV'))
+cam = fd.cv.VideoCapture(fd.os.path.join(dir_source_video, 'DJI_0026.MOV'))
 #cam = fd.cv.VideoCapture(0)
 ret, prev=cam.read()
 prev = fd.cv.resize(prev,(640,480))
@@ -42,6 +43,7 @@ while ret:
 
         # *******       GETTING FLOW            ********************************
         flow = fd.cv.calcOpticalFlowFarneback(prevgray,gray,None, 0.5, 10, 20, 5, 7, 1.5, fd.cv.OPTFLOW_FARNEBACK_GAUSSIAN)
+
         lines = fd.get_grid_coords_w_flow (img, flow, [0, 1], [0, 1],16)
         # **********************************************************************
 #==========================AMPLITUDE============================================

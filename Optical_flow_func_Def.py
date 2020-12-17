@@ -59,6 +59,15 @@ def goto_position_target_local_ned(north, east, down):
     vehicle.flush()
 #================END OF DRONE FUNCTIONS DEFINITIONS =================================
 
+def combineXYZ(XY,Z):
+    print(XY)
+    print(Z)
+    test_matrix = np.concatenate(XY,Z,axis=None)
+    print(test_matrix)
+    return test_matrix
+
+
+
 def draw_flow_Areas(img, lines, threshold):
     
     vis = cv.cvtColor(img, cv.COLOR_GRAY2BGR)
@@ -260,18 +269,17 @@ def make_decision_Areas_method(new_frame):
 
     return decision, info
 
-
-def recording_setup_Windows(dir_original, dir_opt_flow):
+def recording_setup_Windows(dir_original, dir_opt_flow,dir_log):
     time_stamp = strftime("%Y-%m-%d_%H_%M_%S", time.localtime(time.time()))
     time_start = time.time()
 
+
     fourcc = cv.VideoWriter_fourcc(*'XVID')
     out_original = cv.VideoWriter(os.path.join(dir_original, 'original_' + time_stamp + '.avi'), fourcc, 8.0, (640, 480) )
-    out_opt_flow = cv.VideoWriter(os.path.join(dir_opt_flow, 'opt_flow' + time_stamp + '.avi'), fourcc, 8.0,
-    (640, 480))
+    out_opt_flow = cv.VideoWriter(os.path.join(dir_opt_flow, 'opt_flow' + time_stamp + '.avi'), fourcc, 8.0,(640, 480))
     #print(os.getcwd())
     print(os.path.abspath(dir_original))
-    txt_file = open(os.path.join(dir_original, time_stamp + '.txt'), 'w')
+    txt_file = open(os.path.join(dir_log, time_stamp + '.txt'), 'w')
     return out_original, out_opt_flow, txt_file, time_start
 
 def print_info(new_frame, info, txt_file, fr_count, time_start):
@@ -298,14 +306,12 @@ def print_info(new_frame, info, txt_file, fr_count, time_start):
                lineType = cv.LINE_AA
                )
 
-
         y_adjust+=50
         print(fr_count, end = " ")
-        print(key,str(info[key]), end = " ")
+        print(key,str(info[key]), end = "\n")
         str_info=str_info+info[key]+" "
-        #file.write(str(fr_count) + " " + str(info[key]) + "\n")
 
-    print()
+
     diff = time_end-time_start
     cv.putText(new_frame, str(fr_count),
                org=(10, 60),
