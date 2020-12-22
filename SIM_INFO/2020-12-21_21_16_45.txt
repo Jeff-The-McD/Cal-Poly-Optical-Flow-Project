@@ -1,0 +1,1624 @@
+Frame 1
+Status:Going to destination 
+Time Elapsed:0.2630593776702881 sec
+
+Frame 2
+Status:Going to destination 
+Time Elapsed:0.4888010025024414 sec
+
+Frame 3
+Status:Going to destination 
+Time Elapsed:0.728787899017334 sec
+
+Frame 4
+Status:Going to destination 
+Time Elapsed:0.9291424751281738 sec
+
+Frame 5
+Status:Going to destination 
+Time Elapsed:1.121187448501587 sec
+
+Frame 6
+Status:Going to destination 
+Time Elapsed:1.3122506141662598 sec
+
+Frame 7
+Status:Going to destination 
+Time Elapsed:1.5042941570281982 sec
+
+Frame 8
+Status:Going to destination 
+Time Elapsed:1.694467306137085 sec
+
+Frame 9
+Status:Going to destination 
+Time Elapsed:1.8831477165222168 sec
+
+Frame 10
+Status:Going to destination 
+Time Elapsed:2.073540449142456 sec
+
+Frame 11
+Status:Going to destination 
+Time Elapsed:2.263157844543457 sec
+
+Frame 12
+Status:Going to destination 
+Time Elapsed:2.46813702583313 sec
+
+Frame 13
+Status:Going to destination 
+Time Elapsed:2.672137975692749 sec
+
+Frame 14
+Status:Going to destination 
+Time Elapsed:2.878068685531616 sec
+
+Frame 15
+Status:Going to destination 
+Time Elapsed:3.0831069946289062 sec
+
+Frame 16
+Status:Going to destination 
+Time Elapsed:3.274150848388672 sec
+
+Frame 17
+Status:Going to destination 
+Time Elapsed:3.4721481800079346 sec
+
+Frame 18
+Status:Going to destination 
+Time Elapsed:3.676142930984497 sec
+
+Frame 19
+Status:Going to destination 
+Time Elapsed:3.880326271057129 sec
+
+Frame 20
+Status:Going to destination 
+Time Elapsed:4.08141016960144 sec
+
+Frame 21
+Status:Going to destination 
+Time Elapsed:4.27069091796875 sec
+
+Frame 22
+Status:Going to destination 
+Time Elapsed:4.462734222412109 sec
+
+Frame 23
+Status:Going to destination 
+Time Elapsed:4.65278697013855 sec
+
+Frame 24
+Status:Going to destination 
+Time Elapsed:4.846870183944702 sec
+
+Frame 25
+Status:Going to destination 
+Time Elapsed:5.050943374633789 sec
+
+Frame 26
+Status:Going to destination 
+Time Elapsed:5.257147550582886 sec
+
+Frame 27
+Status:Going to destination 
+Time Elapsed:5.461152791976929 sec
+
+Frame 28
+Status:Going to destination 
+Time Elapsed:5.653356075286865 sec
+
+Frame 29
+Status:Going to destination 
+Time Elapsed:5.857141971588135 sec
+
+Frame 30
+Status:Going to destination 
+Time Elapsed:6.047144651412964 sec
+
+Frame 31
+Status:Going to destination 
+Time Elapsed:6.240180969238281 sec
+
+Frame 32
+Status:Going to destination 
+Time Elapsed:6.443144798278809 sec
+
+Frame 33
+Status:Going to destination 
+Time Elapsed:6.6507484912872314 sec
+
+Frame 34
+Status:Going to destination 
+Time Elapsed:6.85392427444458 sec
+
+Frame 35
+Status:Going to destination 
+Time Elapsed:7.046967267990112 sec
+
+Frame 36
+Status:Going to destination 
+Time Elapsed:7.2432427406311035 sec
+
+Frame 37
+Status:Going to destination 
+Time Elapsed:7.448288917541504 sec
+
+Frame 38
+Status:Going to destination 
+Time Elapsed:7.651147842407227 sec
+
+Frame 39
+Status:Going to destination 
+Time Elapsed:7.8533899784088135 sec
+
+Frame 40
+Status:Going to destination 
+Time Elapsed:8.061148643493652 sec
+
+Frame 41
+Status:Going to destination 
+Time Elapsed:8.261149406433105 sec
+
+Frame 42
+Status:Going to destination 
+Time Elapsed:8.452195405960083 sec
+
+Frame 43
+Status:Going to destination 
+Time Elapsed:8.65334963798523 sec
+
+Frame 44
+Status:Going to destination 
+Time Elapsed:8.852388381958008 sec
+
+Frame 45
+Status:Going to destination 
+Time Elapsed:9.055628776550293 sec
+
+Frame 46
+Status:Going to destination 
+Time Elapsed:9.258627653121948 sec
+
+Frame 47
+Status:Going to destination 
+Time Elapsed:9.466635465621948 sec
+
+Frame 48
+Status:Going to destination 
+Time Elapsed:9.677687168121338 sec
+
+Frame 49
+Status:Going to destination 
+Time Elapsed:9.880155324935913 sec
+
+Frame 50
+Status:Going to destination 
+Time Elapsed:10.093204498291016 sec
+
+Frame 51
+Status:Going to destination 
+Time Elapsed:10.298250198364258 sec
+
+Frame 52
+Status:Going to destination 
+Time Elapsed:10.501296281814575 sec
+
+Frame 53
+Status:Going to destination 
+Time Elapsed:10.708357810974121 sec
+
+Frame 54
+Status:Going to destination 
+Time Elapsed:10.929406642913818 sec
+
+Frame 55
+Status:Going to destination 
+Time Elapsed:11.153457403182983 sec
+
+Frame 56
+Status:Going to destination 
+Time Elapsed:11.380509614944458 sec
+
+Frame 57
+Status:Going to destination 
+Time Elapsed:11.581562042236328 sec
+
+Frame 58
+Status:Going to destination 
+Time Elapsed:11.775607585906982 sec
+
+Frame 59
+Status:Going to destination 
+Time Elapsed:11.9876549243927 sec
+
+Frame 60
+Status:Going to destination 
+Time Elapsed:12.197702646255493 sec
+
+Frame 61
+Status:Going to destination 
+Time Elapsed:12.398746967315674 sec
+
+Frame 62
+Status:Going to destination 
+Time Elapsed:12.60579514503479 sec
+
+Frame 63
+Status:Going to destination 
+Time Elapsed:12.82284426689148 sec
+
+Frame 64
+Status:Going to destination 
+Time Elapsed:13.025893926620483 sec
+
+Frame 65
+Status:Going to destination 
+Time Elapsed:13.22295069694519 sec
+
+Frame 66
+Status:Going to destination 
+Time Elapsed:13.414002656936646 sec
+
+Frame 67
+Status:Going to destination 
+Time Elapsed:13.609050273895264 sec
+
+Frame 68
+Status:Going to destination 
+Time Elapsed:13.815102338790894 sec
+
+Frame 69
+Status:Going to destination 
+Time Elapsed:14.00516653060913 sec
+
+Frame 70
+Status:Going to destination 
+Time Elapsed:14.204213619232178 sec
+
+Frame 71
+Status:Going to destination 
+Time Elapsed:14.408262252807617 sec
+
+Frame 72
+Status:Going to destination 
+Time Elapsed:14.601162195205688 sec
+
+Frame 73
+Status:Going to destination 
+Time Elapsed:14.807209730148315 sec
+
+Frame 74
+Status:Going to destination 
+Time Elapsed:15.002254009246826 sec
+
+Frame 75
+Status:Going to destination 
+Time Elapsed:15.212332010269165 sec
+
+Frame 76
+Status:Going to destination 
+Time Elapsed:15.409827470779419 sec
+
+Frame 77
+Status:Going to destination 
+Time Elapsed:15.613673448562622 sec
+
+Frame 78
+Status:Going to destination 
+Time Elapsed:15.816829204559326 sec
+
+Frame 79
+Status:Going to destination 
+Time Elapsed:16.019830226898193 sec
+
+Frame 80
+Status:Going to destination 
+Time Elapsed:16.22407627105713 sec
+
+Frame 81
+Status:Going to destination 
+Time Elapsed:16.415119886398315 sec
+
+Frame 82
+Status:Going to destination 
+Time Elapsed:16.605161428451538 sec
+
+Frame 83
+Status:Going to destination 
+Time Elapsed:16.81222176551819 sec
+
+Frame 84
+Status:Going to destination 
+Time Elapsed:17.00126838684082 sec
+
+Frame 85
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.20231866836548 sec
+
+Frame 86
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.215320825576782 sec
+
+Frame 87
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.283339977264404 sec
+
+Frame 88
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.346367597579956 sec
+
+Frame 89
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.40752673149109 sec
+
+Frame 90
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.4701406955719 sec
+
+Frame 91
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.53316068649292 sec
+
+Frame 92
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.595183849334717 sec
+
+Frame 93
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.656320095062256 sec
+
+Frame 94
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.719327926635742 sec
+
+Frame 95
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.78334403038025 sec
+
+Frame 96
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.845324277877808 sec
+
+Frame 97
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.908318996429443 sec
+
+Frame 98
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:17.972140789031982 sec
+
+Frame 99
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.032140731811523 sec
+
+Frame 100
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.095165252685547 sec
+
+Frame 101
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.159191131591797 sec
+
+Frame 102
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.222211360931396 sec
+
+Frame 103
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.286234617233276 sec
+
+Frame 104
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.351271629333496 sec
+
+Frame 105
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.414134979248047 sec
+
+Frame 106
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.47614288330078 sec
+
+Frame 107
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.538161516189575 sec
+
+Frame 108
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.600147008895874 sec
+
+Frame 109
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.66114091873169 sec
+
+Frame 110
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.724287271499634 sec
+
+Frame 111
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.788448095321655 sec
+
+Frame 112
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.850143432617188 sec
+
+Frame 113
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.91215705871582 sec
+
+Frame 114
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:18.97580575942993 sec
+
+Frame 115
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.03882074356079 sec
+
+Frame 116
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.096834182739258 sec
+
+Frame 117
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.15984869003296 sec
+
+Frame 118
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.225862979888916 sec
+
+Frame 119
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.28788161277771 sec
+
+Frame 120
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.352900981903076 sec
+
+Frame 121
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.415919303894043 sec
+
+Frame 122
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.48023796081543 sec
+
+Frame 123
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.541325569152832 sec
+
+Frame 124
+Status:Right [264, 456] Performing Maneuver 
+Time Elapsed:19.60535502433777 sec
+
+Frame 125
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:19.85691547393799 sec
+
+Frame 126
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:19.870917797088623 sec
+
+Frame 127
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:19.937153816223145 sec
+
+Frame 128
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.00114154815674 sec
+
+Frame 129
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.077142238616943 sec
+
+Frame 130
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.14015769958496 sec
+
+Frame 131
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.202179193496704 sec
+
+Frame 132
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.266205549240112 sec
+
+Frame 133
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.33022665977478 sec
+
+Frame 134
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.395512104034424 sec
+
+Frame 135
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.455538034439087 sec
+
+Frame 136
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.51855993270874 sec
+
+Frame 137
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.58155846595764 sec
+
+Frame 138
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.645575761795044 sec
+
+Frame 139
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.7085964679718 sec
+
+Frame 140
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.771623373031616 sec
+
+Frame 141
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.835649013519287 sec
+
+Frame 142
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.897666931152344 sec
+
+Frame 143
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:20.96146249771118 sec
+
+Frame 144
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.025139093399048 sec
+
+Frame 145
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.086143493652344 sec
+
+Frame 146
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.14914059638977 sec
+
+Frame 147
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.211139678955078 sec
+
+Frame 148
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.27230978012085 sec
+
+Frame 149
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.33614206314087 sec
+
+Frame 150
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.395147562026978 sec
+
+Frame 151
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.458141326904297 sec
+
+Frame 152
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.520140171051025 sec
+
+Frame 153
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.58215570449829 sec
+
+Frame 154
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.645446062088013 sec
+
+Frame 155
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.71014428138733 sec
+
+Frame 156
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.771161317825317 sec
+
+Frame 157
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.835156679153442 sec
+
+Frame 158
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.898168325424194 sec
+
+Frame 159
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:21.96218490600586 sec
+
+Frame 160
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:22.025142192840576 sec
+
+Frame 161
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:22.08715534210205 sec
+
+Frame 162
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:22.149147987365723 sec
+
+Frame 163
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:22.210484504699707 sec
+
+Frame 164
+Status:Right [136, 280] Performing Maneuver 
+Time Elapsed:22.278502464294434 sec
+
+Frame 165
+Status:Going to destination 
+Time Elapsed:22.534295082092285 sec
+
+Frame 166
+Status:Going to destination 
+Time Elapsed:22.7421772480011 sec
+
+Frame 167
+Status:Going to destination 
+Time Elapsed:22.941176414489746 sec
+
+Frame 168
+Status:Going to destination 
+Time Elapsed:23.132221460342407 sec
+
+Frame 169
+Status:Going to destination 
+Time Elapsed:23.324268102645874 sec
+
+Frame 170
+Status:Going to destination 
+Time Elapsed:23.533186674118042 sec
+
+Frame 171
+Status:Going to destination 
+Time Elapsed:23.722357273101807 sec
+
+Frame 172
+Status:Going to destination 
+Time Elapsed:23.916407823562622 sec
+
+Frame 173
+Status:Going to destination 
+Time Elapsed:24.138457536697388 sec
+
+Frame 174
+Status:Going to destination 
+Time Elapsed:24.339502334594727 sec
+
+Frame 175
+Status:Going to destination 
+Time Elapsed:24.541187286376953 sec
+
+Frame 176
+Status:Going to destination 
+Time Elapsed:24.729521989822388 sec
+
+Frame 177
+Status:Going to destination 
+Time Elapsed:24.917596340179443 sec
+
+Frame 178
+Status:Going to destination 
+Time Elapsed:25.109634160995483 sec
+
+Frame 179
+Status:Going to destination 
+Time Elapsed:25.301188468933105 sec
+
+Frame 180
+Status:Going to destination 
+Time Elapsed:25.492232084274292 sec
+
+Frame 181
+Status:Going to destination 
+Time Elapsed:25.70328116416931 sec
+
+Frame 182
+Status:Going to destination 
+Time Elapsed:25.904327392578125 sec
+
+Frame 183
+Status:Going to destination 
+Time Elapsed:26.09137511253357 sec
+
+Frame 184
+Status:Going to destination 
+Time Elapsed:26.282440185546875 sec
+
+Frame 185
+Status:Going to destination 
+Time Elapsed:26.4931857585907 sec
+
+Frame 186
+Status:Going to destination 
+Time Elapsed:26.692346334457397 sec
+
+Frame 187
+Status:Going to destination 
+Time Elapsed:26.87983751296997 sec
+
+Frame 188
+Status:Going to destination 
+Time Elapsed:27.068835020065308 sec
+
+Frame 189
+Status:Going to destination 
+Time Elapsed:27.256842136383057 sec
+
+Frame 190
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.444862604141235 sec
+
+Frame 191
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.45583939552307 sec
+
+Frame 192
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.51608419418335 sec
+
+Frame 193
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.577281713485718 sec
+
+Frame 194
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.64050602912903 sec
+
+Frame 195
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.70217800140381 sec
+
+Frame 196
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.765159845352173 sec
+
+Frame 197
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.82662582397461 sec
+
+Frame 198
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.888339519500732 sec
+
+Frame 199
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:27.950499773025513 sec
+
+Frame 200
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.01273012161255 sec
+
+Frame 201
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.07632327079773 sec
+
+Frame 202
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.136353969573975 sec
+
+Frame 203
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.198569297790527 sec
+
+Frame 204
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.26017999649048 sec
+
+Frame 205
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.32228112220764 sec
+
+Frame 206
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.38545322418213 sec
+
+Frame 207
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.447600841522217 sec
+
+Frame 208
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.509361028671265 sec
+
+Frame 209
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.57216238975525 sec
+
+Frame 210
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.634333610534668 sec
+
+Frame 211
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.696529388427734 sec
+
+Frame 212
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.758521556854248 sec
+
+Frame 213
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.82192826271057 sec
+
+Frame 214
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.88595223426819 sec
+
+Frame 215
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:28.94898557662964 sec
+
+Frame 216
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.01201033592224 sec
+
+Frame 217
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.07356357574463 sec
+
+Frame 218
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.136575937271118 sec
+
+Frame 219
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.198340892791748 sec
+
+Frame 220
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.26116132736206 sec
+
+Frame 221
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.32283616065979 sec
+
+Frame 222
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.383874893188477 sec
+
+Frame 223
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.446236610412598 sec
+
+Frame 224
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.509172916412354 sec
+
+Frame 225
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.57094669342041 sec
+
+Frame 226
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.633980751037598 sec
+
+Frame 227
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.69706439971924 sec
+
+Frame 228
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.7582004070282 sec
+
+Frame 229
+Status:Right [280, 424] Performing Maneuver 
+Time Elapsed:29.821712255477905 sec
+
+Frame 230
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.060906648635864 sec
+
+Frame 231
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.074435472488403 sec
+
+Frame 232
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.134155988693237 sec
+
+Frame 233
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.19738483428955 sec
+
+Frame 234
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.2582905292511 sec
+
+Frame 235
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.321157455444336 sec
+
+Frame 236
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.382165908813477 sec
+
+Frame 237
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.446184158325195 sec
+
+Frame 238
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.509402751922607 sec
+
+Frame 239
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.570499420166016 sec
+
+Frame 240
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.633232355117798 sec
+
+Frame 241
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.69387125968933 sec
+
+Frame 242
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.756355047225952 sec
+
+Frame 243
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.819381713867188 sec
+
+Frame 244
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.882417917251587 sec
+
+Frame 245
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:30.94558548927307 sec
+
+Frame 246
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.008788108825684 sec
+
+Frame 247
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.070758819580078 sec
+
+Frame 248
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.133232593536377 sec
+
+Frame 249
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.19620442390442 sec
+
+Frame 250
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.258825302124023 sec
+
+Frame 251
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.321014165878296 sec
+
+Frame 252
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.38429355621338 sec
+
+Frame 253
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.447317600250244 sec
+
+Frame 254
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.50934910774231 sec
+
+Frame 255
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.573338985443115 sec
+
+Frame 256
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.634511709213257 sec
+
+Frame 257
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.696886777877808 sec
+
+Frame 258
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.759066820144653 sec
+
+Frame 259
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.821081161499023 sec
+
+Frame 260
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.886095762252808 sec
+
+Frame 261
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:31.95011067390442 sec
+
+Frame 262
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.01312565803528 sec
+
+Frame 263
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.07671809196472 sec
+
+Frame 264
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.1392126083374 sec
+
+Frame 265
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.201260805130005 sec
+
+Frame 266
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.26457643508911 sec
+
+Frame 267
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.326767683029175 sec
+
+Frame 268
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.388794898986816 sec
+
+Frame 269
+Status:Left [376, 88] Performing Maneuver 
+Time Elapsed:32.45183730125427 sec
+
+Frame 270
+Status:Going to destination 
+Time Elapsed:32.69310259819031 sec
+
+Frame 271
+Status:Going to destination 
+Time Elapsed:32.896201610565186 sec
+
+Frame 272
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.08519220352173 sec
+
+Frame 273
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.09719395637512 sec
+
+Frame 274
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.15520763397217 sec
+
+Frame 275
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.22034764289856 sec
+
+Frame 276
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.28175687789917 sec
+
+Frame 277
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.344969749450684 sec
+
+Frame 278
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.40813374519348 sec
+
+Frame 279
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.47216176986694 sec
+
+Frame 280
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.53418207168579 sec
+
+Frame 281
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.59522223472595 sec
+
+Frame 282
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.65725374221802 sec
+
+Frame 283
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.72000050544739 sec
+
+Frame 284
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.782068967819214 sec
+
+Frame 285
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.84426689147949 sec
+
+Frame 286
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.90642952919006 sec
+
+Frame 287
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:33.96864938735962 sec
+
+Frame 288
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.03116774559021 sec
+
+Frame 289
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.09309101104736 sec
+
+Frame 290
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.158108949661255 sec
+
+Frame 291
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.220133781433105 sec
+
+Frame 292
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.283326387405396 sec
+
+Frame 293
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.3454155921936 sec
+
+Frame 294
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.40846061706543 sec
+
+Frame 295
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.47067618370056 sec
+
+Frame 296
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.53187012672424 sec
+
+Frame 297
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.59513783454895 sec
+
+Frame 298
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.6573269367218 sec
+
+Frame 299
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.72118139266968 sec
+
+Frame 300
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.782182931900024 sec
+
+Frame 301
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.8463921546936 sec
+
+Frame 302
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.908329486846924 sec
+
+Frame 303
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:34.96941375732422 sec
+
+Frame 304
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.031487464904785 sec
+
+Frame 305
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.09483098983765 sec
+
+Frame 306
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.156200647354126 sec
+
+Frame 307
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.218466997146606 sec
+
+Frame 308
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.28253674507141 sec
+
+Frame 309
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.34575319290161 sec
+
+Frame 310
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.40691089630127 sec
+
+Frame 311
+Status:Right [56, 328] Performing Maneuver 
+Time Elapsed:35.467979431152344 sec
+
+Frame 312
+Status:Going to destination 
+Time Elapsed:35.70708346366882 sec
+
+Frame 313
+Status:Going to destination 
+Time Elapsed:35.90115141868591 sec
+
+Frame 314
+Status:Going to destination 
+Time Elapsed:36.09319543838501 sec
+
+Frame 315
+Status:Going to destination 
+Time Elapsed:36.28319764137268 sec
+
+Frame 316
+Status:Going to destination 
+Time Elapsed:36.4782452583313 sec
+
+Frame 317
+Status:Going to destination 
+Time Elapsed:36.679197549819946 sec
+
+Frame 318
+Status:Going to destination 
+Time Elapsed:36.8832151889801 sec
+
+Frame 319
+Status:Going to destination 
+Time Elapsed:37.07541036605835 sec
+
+Frame 320
+Status:Going to destination 
+Time Elapsed:37.3002073764801 sec
+
+Frame 321
+Status:Going to destination 
+Time Elapsed:37.5002601146698 sec
+
+Frame 322
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.70331025123596 sec
+
+Frame 323
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.71531343460083 sec
+
+Frame 324
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.777517318725586 sec
+
+Frame 325
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.839150190353394 sec
+
+Frame 326
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.901172161102295 sec
+
+Frame 327
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:37.965179681777954 sec
+
+Frame 328
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.025675535202026 sec
+
+Frame 329
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.089176416397095 sec
+
+Frame 330
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.15197992324829 sec
+
+Frame 331
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.21400260925293 sec
+
+Frame 332
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.27602505683899 sec
+
+Frame 333
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.33917164802551 sec
+
+Frame 334
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.40219783782959 sec
+
+Frame 335
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.464226722717285 sec
+
+Frame 336
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.525556325912476 sec
+
+Frame 337
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.58882927894592 sec
+
+Frame 338
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.65008211135864 sec
+
+Frame 339
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.71304702758789 sec
+
+Frame 340
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.773194313049316 sec
+
+Frame 341
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.83621621131897 sec
+
+Frame 342
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.897239685058594 sec
+
+Frame 343
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:38.96125769615173 sec
+
+Frame 344
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.02341938018799 sec
+
+Frame 345
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.086182594299316 sec
+
+Frame 346
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.14719843864441 sec
+
+Frame 347
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.20917344093323 sec
+
+Frame 348
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.27208113670349 sec
+
+Frame 349
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.3352370262146 sec
+
+Frame 350
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.39925193786621 sec
+
+Frame 351
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.463265895843506 sec
+
+Frame 352
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.5252799987793 sec
+
+Frame 353
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.58729386329651 sec
+
+Frame 354
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.65031027793884 sec
+
+Frame 355
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.714083433151245 sec
+
+Frame 356
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.776336908340454 sec
+
+Frame 357
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.83917427062988 sec
+
+Frame 358
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.902326822280884 sec
+
+Frame 359
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:39.965343713760376 sec
+
+Frame 360
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:40.0288565158844 sec
+
+Frame 361
+Status:Right [24, 312] Performing Maneuver 
+Time Elapsed:40.09004354476929 sec
+
+Frame 362
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.356449365615845 sec
+
+Frame 363
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.371445178985596 sec
+
+Frame 364
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.433459997177124 sec
+
+Frame 365
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.49563217163086 sec
+
+Frame 366
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.55765700340271 sec
+
+Frame 367
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.619675636291504 sec
+
+Frame 368
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.682706356048584 sec
+
+Frame 369
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.746723651885986 sec
+
+Frame 370
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.8107373714447 sec
+
+Frame 371
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.8719208240509 sec
+
+Frame 372
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.93457341194153 sec
+
+Frame 373
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:40.99459099769592 sec
+
+Frame 374
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.05759859085083 sec
+
+Frame 375
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.11961245536804 sec
+
+Frame 376
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.18162727355957 sec
+
+Frame 377
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.246641397476196 sec
+
+Frame 378
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.307655572891235 sec
+
+Frame 379
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.37266993522644 sec
+
+Frame 380
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.43568444252014 sec
+
+Frame 381
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.498699426651 sec
+
+Frame 382
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.56271409988403 sec
+
+Frame 383
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.62672805786133 sec
+
+Frame 384
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.6907422542572 sec
+
+Frame 385
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.75235605239868 sec
+
+Frame 386
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.81455445289612 sec
+
+Frame 387
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.877585649490356 sec
+
+Frame 388
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:41.939303398132324 sec
+
+Frame 389
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.00133395195007 sec
+
+Frame 390
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.06435418128967 sec
+
+Frame 391
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.12837243080139 sec
+
+Frame 392
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.191396951675415 sec
+
+Frame 393
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.25442552566528 sec
+
+Frame 394
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.31659126281738 sec
+
+Frame 395
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.379823446273804 sec
+
+Frame 396
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.441837787628174 sec
+
+Frame 397
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.50585317611694 sec
+
+Frame 398
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.56886672973633 sec
+
+Frame 399
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.63188195228577 sec
+
+Frame 400
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.69389462471008 sec
+
+Frame 401
+Status:Right [56, 200] Performing Maneuver 
+Time Elapsed:42.757909536361694 sec
+
+Frame 402
+Status:Right [56, 216] Performing Maneuver 
+Time Elapsed:43.000964641571045 sec
+
+Frame 403
+Status:Right [56, 216] Performing Maneuver 
+Time Elapsed:43.01496767997742 sec
+
+Frame 404
+Status:Right [56, 216] Performing Maneuver 
+Time Elapsed:43.086946964263916 sec
+
+Frame 405
+Status:Right [56, 216] Performing Maneuver 
+Time Elapsed:43.14807891845703 sec
+
+Frame 406
+Status:Right [56, 216] Performing Maneuver 
+Time Elapsed:43.21017909049988 sec
+
