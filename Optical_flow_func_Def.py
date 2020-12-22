@@ -269,7 +269,7 @@ def make_decision_Areas_method(new_frame):
 
     return decision, info
 
-def recording_setup_Windows(dir_original, dir_opt_flow,dir_log):
+def recording_setup_Windows(dir_original, dir_opt_flow,dir_log=None):
     time_stamp = strftime("%Y-%m-%d_%H_%M_%S", time.localtime(time.time()))
     time_start = time.time()
 
@@ -277,7 +277,6 @@ def recording_setup_Windows(dir_original, dir_opt_flow,dir_log):
     fourcc = cv.VideoWriter_fourcc(*'XVID')
     out_original = cv.VideoWriter(os.path.join(dir_original, 'original_' + time_stamp + '.avi'), fourcc, 8.0, (640, 480) )
     out_opt_flow = cv.VideoWriter(os.path.join(dir_opt_flow, 'opt_flow' + time_stamp + '.avi'), fourcc, 8.0,(640, 480))
-    #print(os.getcwd())
     print(os.path.abspath(dir_original))
     txt_file = open(os.path.join(dir_log, time_stamp + '.txt'), 'w')
     return out_original, out_opt_flow, txt_file, time_start
@@ -330,8 +329,9 @@ def print_info(new_frame, info, txt_file, fr_count, time_start):
                thickness=1,
                lineType=cv.LINE_AA
                )
+    flight_info = "Frame "+ str(fr_count)+"\nStatus:"+str_info+"\nTime Elapsed:"+str(diff)+" sec"+"\n"+"\n"
 
-    txt_file.write(str(fr_count)+" "+str_info+str(diff)+"\n")
+    txt_file.write(flight_info)
 
 def sleepNrecord(seconds,cam, out_original, out_opt_flow, info, txt_file, fr_count, time_start):
     
