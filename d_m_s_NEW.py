@@ -12,7 +12,8 @@ dir_opt_flow = 'OPT_FLOW'
 dir_source_video = 'TEST_VIDEOS'
 dir_sim_info = 'SIM_INFO'
 global out_original, out_opt_flow, txt_file, time_start ,fd # HAD TO MAKE THEM GLOBAL FOR USAGE INSIDE AND OUTSIDE FUNCTIONS
-out_original, out_opt_flow, txt_file, time_start = fd.recording_setup_Windows(dir_original,dir_opt_flow,dir_sim_info)
+#out_original, out_opt_flow, txt_file, time_start = fd.recording_setup_Windows(dir_original,dir_opt_flow,dir_sim_info)
+out_original, out_opt_flow, time_start = fd.recording_setup_Windows(dir_original,dir_opt_flow)
 #******************************************************************************
 
 #******* creating an inital image for the algorithm   *************************
@@ -58,8 +59,8 @@ while ret:
 
 #=============   PRINTING INFO INTO FRAME AND RECORDING OUTPUT VIDEOS  =========
         decision, info = fd.get_decision_by_flow(new_lines)# taking decision from flow amplitude method
-        fd.print_info(new_frame, info, txt_file, fr_count, time_start)#printing decision info into frame
-        
+        #fd.print_info(new_frame, info,fr_count, time_start,txt_file)#printing decision info into frame
+        fd.print_info(new_frame,info,fr_count,time_start)
         out_original.write(img) # recording the original video input
         out_opt_flow.write(new_frame) # recording the opt flow output
         
@@ -69,7 +70,7 @@ while ret:
 #       IN SIMULATION VERSION, WE DO "sleepNrecord" PRETENDING WE DO A MANEUVER
 #       !!! IMPORTANT CHANGE: VIDEO IS BEING RECORDED DURING THE MANEUVER
         if decision != "0":
-            out_original, out_opt_flow, fr_count, cam = fd.sleepNrecord(2, cam, out_original, out_opt_flow, info, txt_file, fr_count, time_start)
+            out_original, out_opt_flow, fr_count, cam = fd.sleepNrecord(2, cam, out_original, out_opt_flow, info,fr_count, time_start)
 #================================================================================            
 
 #       IN DRONE VERSION, HERE SHOULD BE AN ATTEMPT TO MOVE TOWARD DESTINATION :
@@ -94,5 +95,7 @@ while ret:
 #**************   END OF MAIN LOOP   **********************************************
 
 print('landing')
-txt_file.close()
+if txt_file != None:
+    txt_file.close()
+
 
