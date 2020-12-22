@@ -277,11 +277,12 @@ def recording_setup_Windows(dir_original, dir_opt_flow,dir_log=None):
     fourcc = cv.VideoWriter_fourcc(*'XVID')
     out_original = cv.VideoWriter(os.path.join(dir_original, 'original_' + time_stamp + '.avi'), fourcc, 8.0, (640, 480) )
     out_opt_flow = cv.VideoWriter(os.path.join(dir_opt_flow, 'opt_flow' + time_stamp + '.avi'), fourcc, 8.0,(640, 480))
-    print(os.path.abspath(dir_original))
+    if dir_log == None:
+        return out_original,out_opt_flow,time_start
     txt_file = open(os.path.join(dir_log, time_stamp + '.txt'), 'w')
     return out_original, out_opt_flow, txt_file, time_start
 
-def print_info(new_frame, info, txt_file, fr_count, time_start):
+def print_info(new_frame, info, fr_count, time_start,txt_file = None):
     y_adjust=0
     str_info=""
     time_end = time.time()
@@ -330,10 +331,10 @@ def print_info(new_frame, info, txt_file, fr_count, time_start):
                lineType=cv.LINE_AA
                )
     flight_info = "Frame "+ str(fr_count)+"\nStatus:"+str_info+"\nTime Elapsed:"+str(diff)+" sec"+"\n"+"\n"
+    if txt_file != None:
+        txt_file.write(flight_info)
 
-    txt_file.write(flight_info)
-
-def sleepNrecord(seconds,cam, out_original, out_opt_flow, info, txt_file, fr_count, time_start):
+def sleepNrecord(seconds,cam, out_original, out_opt_flow, info,fr_count, time_start,txt_file=None):
     
     i=0.05
     while i <= seconds:
@@ -342,7 +343,7 @@ def sleepNrecord(seconds,cam, out_original, out_opt_flow, info, txt_file, fr_cou
         if ret:
             img = cv.resize(img, (640, 480))
             gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
-            print_info(gray, info, txt_file, fr_count, time_start)
+            print_info(gray, info,fr_count, time_start,txt_file)
             out_original.write(img)
             out_opt_flow.write(gray)
 #================= THIS IS NOT IN THE DRONE VERSION ==================
