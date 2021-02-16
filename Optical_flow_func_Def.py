@@ -66,8 +66,6 @@ def combineXYZ(XY,Z):
     print(test_matrix)
     return test_matrix
 
-
-
 def draw_flow_Areas(img, lines, threshold):
     
     vis = cv.cvtColor(img, cv.COLOR_GRAY2BGR)
@@ -79,7 +77,6 @@ def draw_flow_Areas(img, lines, threshold):
             cv.circle(vis, (x2, y2), 15, (0, 0, 255), -1)
     # cv.polylines(vis, lines, 0, (0, 255, 0))
     return  vis
-
 
 def draw_flow(img, flow, step=8):
     h, w = img.shape[:2]
@@ -143,7 +140,6 @@ def get_amplitude_over_threshold(lines, dimension, thresholdX, thresholdY):
             else:
                 if ((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2)) ** 0.5 < -(max([abs(thresholdX), abs(thresholdY)])):
                     new_lines.append([[x1, y1], [x2, y2]])
-        
     return new_lines
 
 
@@ -221,9 +217,6 @@ def draw_flow_orig_parts(img, flow, part, parts, ldx, ldy,step=16):
            if max(ldy)>5 or min(ldy)< 5 *(-1):
             cv.circle(vis, (x1,y1), 10, (255 , 0, 0), -1)
             print('X:'+str(max(ldx))+','+'Y:'+str(min(ldy)))
-
-
-           
     return vis
 
 def get_partial_flow(img, flow, part, parts, step=16):
@@ -272,8 +265,6 @@ def make_decision_Areas_method(new_frame):
 def recording_setup_Windows(dir_original, dir_opt_flow,dir_log=None):
     time_stamp = strftime("%Y-%m-%d_%H_%M_%S", time.localtime(time.time()))
     time_start = time.time()
-
-
     fourcc = cv.VideoWriter_fourcc(*'XVID')
     out_original = cv.VideoWriter(os.path.join(dir_original, 'original_' + time_stamp + '.avi'), fourcc, 8.0, (640, 480) )
     out_opt_flow = cv.VideoWriter(os.path.join(dir_opt_flow, 'opt_flow' + time_stamp + '.avi'), fourcc, 8.0,(640, 480))

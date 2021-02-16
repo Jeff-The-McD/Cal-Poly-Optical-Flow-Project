@@ -11,7 +11,7 @@ dir_original = 'ORIGINAL'
 dir_opt_flow = 'OPT_FLOW'
 dir_source_video = 'TEST_VIDEOS'
 dir_sim_info = 'SIM_INFO'
-is_Log = False
+is_Log = True
 global out_original, out_opt_flow, txt_file, time_start ,fd # HAD TO MAKE THEM GLOBAL FOR USAGE INSIDE AND OUTSIDE FUNCTIONS
 if is_Log:
     out_original, out_opt_flow, txt_file, time_start = fd.recording_setup_Windows(dir_original, dir_opt_flow,dir_sim_info)
@@ -83,15 +83,13 @@ while ret:
             else:
                 out_original, out_opt_flow, fr_count, cam = fd.sleepNrecord(2, cam, out_original, out_opt_flow, info,
                                                                             fr_count, time_start)
-
-
 #================================================================================            
 
 #       IN DRONE VERSION, HERE SHOULD BE AN ATTEMPT TO MOVE TOWARD DESTINATION :
         #else:
             # move onward
 #=================================================================================       
-#========== READING AND PROCESSING "PREVOIUS" FRAME FOR OPT FLOW =================
+#========== READING AND PROCESSING "PREVIOUS" FRAME FOR OPT FLOW =================
         ret, prev = cam.read() # reads PREV frame from camera (NEEDED FOR ANY METHOD)
         if ret:
             prev = fd.cv.resize(prev,(640,480))
