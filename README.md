@@ -29,3 +29,5 @@ This project is using the [PEP8](https://www.python.org/dev/peps/pep-0008/) styl
 - [DroneKit](https://dronekit.io) 
 
 ## Credits
+- Jeffrey McDonald
+- Natallia Urieva
